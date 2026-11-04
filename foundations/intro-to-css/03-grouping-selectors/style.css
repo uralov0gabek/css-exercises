@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.bg-dark {
+  background-color: black;
+  color: white;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-dark,
+.bg-yellow {
+  font-size: 28px;
+  font-family:
+    Helvetica,
+    'Times New Roman' sans-serif;
+}
